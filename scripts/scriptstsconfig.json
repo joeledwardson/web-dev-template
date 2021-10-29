@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "CommonJS",
+    "jsx": "react"
+  },
+  "include": ["../scripts/**/*"],
+  "exclude": ["../node_modules"]
+}
